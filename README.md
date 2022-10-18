@@ -1,4 +1,4 @@
-{ 
+-{ 
  "👋 Me" : "@ethankuhrts",
  "👀 I’m interested in" : "All types of software",
  "🌱 I’m currently learning" : "Web3 Development",
