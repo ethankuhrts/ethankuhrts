@@ -1,10 +1,11 @@
 - "👋 Me" : "@ethankuhrts",
 - "👀 I’m interested in" : "All types of software",
-- "🌱 I’m currently learning" : "Web3 Development",
-- "💞️ I’m looking to collaborate on" : ["Web Development", "Web3 Applications", "Frontend Web", "Unity Games", "Web / Game Servers"],
+- "💻 Skills": ["Javascript", "NodeJS", "React", "Rust", "C#", "HTML5"],
+- "💞️ I’m looking to collaborate on" : ["Web Development", "Frontend Web", "Web / Game Servers"],
 - "📫 How to reach me" : { 
     "Email": "ethankuhrts@gmail.com", 
     "Discord": "Theodore.#8065",
+    "LinkedIn": "ethan kuhrts",
   }
 
 <!---
